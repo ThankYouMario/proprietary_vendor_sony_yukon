@@ -17,7 +17,6 @@ PRODUCT_PACKAGES += \
 	hvdcp \
 	irsc_util \
 	netmgrd \
-	mpdecision \
 	qmiproxy \
 	qmuxd \
 	qseecomd \
@@ -93,7 +92,6 @@ PRODUCT_PACKAGES += \
 	libmm-abl \
 	libmm-color-convertor \
 	libnetmgr \
-	libqc-opt \
 	libqcci_legacy \
 	libqdi \
 	libqdp \
